@@ -890,7 +890,7 @@ GET /[project]/items/[collection-name]/[pk]
 
 #### Examples
 
-*   Return the project item with an primary key of `1`
+*   Return the project item with a primary key of `1`
     ```bash
     curl -u <token>: https://api.directus.io/_/items/projects/1
     ```
